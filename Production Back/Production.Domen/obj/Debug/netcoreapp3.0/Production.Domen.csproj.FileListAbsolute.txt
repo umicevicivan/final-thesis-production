@@ -1,0 +1,24 @@
+D:\Vanja\Desktop\Production\Production.Domen\bin\Debug\netcoreapp3.0\Production.Domen.deps.json
+D:\Vanja\Desktop\Production\Production.Domen\bin\Debug\netcoreapp3.0\Production.Domen.dll
+D:\Vanja\Desktop\Production\Production.Domen\bin\Debug\netcoreapp3.0\Production.Domen.pdb
+D:\Vanja\Desktop\Production\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.csprojAssemblyReference.cache
+D:\Vanja\Desktop\Production\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.AssemblyInfoInputs.cache
+D:\Vanja\Desktop\Production\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.AssemblyInfo.cs
+D:\Vanja\Desktop\Production\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.dll
+D:\Vanja\Desktop\Production\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.pdb
+D:\Vanja\Desktop\Production\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.csproj.CoreCompileInputs.cache
+D:\Vanja\Desktop\Production\Production.Domen\bin\Debug\netcoreapp3.0\Production.Domen.runtimeconfig.json
+D:\Vanja\Desktop\Production\Production.Domen\bin\Debug\netcoreapp3.0\Production.Domen.runtimeconfig.dev.json
+D:\Vanja\Desktop\Production\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.genruntimeconfig.cache
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\bin\Debug\netcoreapp3.0\Production.Domen.deps.json
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\bin\Debug\netcoreapp3.0\Production.Domen.runtimeconfig.json
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\bin\Debug\netcoreapp3.0\Production.Domen.runtimeconfig.dev.json
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\bin\Debug\netcoreapp3.0\Production.Domen.dll
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\bin\Debug\netcoreapp3.0\Production.Domen.pdb
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.csprojAssemblyReference.cache
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.AssemblyInfoInputs.cache
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.AssemblyInfo.cs
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.csproj.CoreCompileInputs.cache
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.dll
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.pdb
+D:\Vanja\Desktop\Producotion FPIS\Production Back\Production.Domen\obj\Debug\netcoreapp3.0\Production.Domen.genruntimeconfig.cache
