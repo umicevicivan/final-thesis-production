@@ -1,0 +1,36 @@
+
+<div class="container">
+  <div class="mt-4">
+    <h1><b>Products</b></h1>
+  </div>
+  <div class="pb-4">
+    <button type="button" class="btn btn-outline-success btn-lg btn-block mt-5 py-3" (click) = "openForAdding()">Add New Product</button>
+  </div>
+
+  <div class=" mt-4 table-striped">
+    <table class="table">
+      <thead>
+        <tr>
+          <th *ngFor="let head of headElements" scope="col">{{ head }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr  mdbTableCol *ngFor="let product of products">
+          <th scope="row">{{ product.id }}</th>
+          <td>{{ product.name }}</td>
+          <td>{{ product.professionalName }}</td>
+          <td>{{ product.shape }}</td>
+          <td>{{ product.description }}</td>
+          <td>{{ product.instruction }}</td>
+          <td>{{ product.price }}</td>
+          <td>{{ product.unitOfMeasure.fullName }}</td>
+          <td>
+              <button type="button" class="btn btn-success mb-1 btn-block" [routerLink]="['/products/edit/', product.id]">Edit</button>
+              <button type="button" class="btn btn-danger" (click) = "deleteProduct(product)">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+</div>
